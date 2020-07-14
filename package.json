@@ -1,0 +1,15 @@
+{
+  "name": "wolf3D-wasm",
+  "collaborators": [
+    "Nhyarlathotep"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "wolf3D_wasm_bg.wasm",
+    "wolf3D_wasm.js",
+    "wolf3D_wasm.d.ts"
+  ],
+  "module": "wolf3D_wasm.js",
+  "types": "wolf3D_wasm.d.ts",
+  "sideEffects": false
+}
