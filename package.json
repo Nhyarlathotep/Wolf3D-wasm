@@ -7,7 +7,8 @@
   "files": [
     "wolf3D_wasm_bg.wasm",
     "wolf3D_wasm.js",
-    "wolf3D_wasm.d.ts"
+    "wolf3D_wasm.d.ts",
+    "wolf3D_wasm_bg.js"
   ],
   "module": "wolf3D_wasm.js",
   "types": "wolf3D_wasm.d.ts",
